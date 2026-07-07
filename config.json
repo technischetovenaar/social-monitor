@@ -1,10 +1,13 @@
 {
-  "accounts": {
-    "tiktok": [
-      "the.hangout.alkmaar"
-    ],
-    "instagram": [
-      "the.hangout.alkmaar"
-    ]
-  }
+    "accounts": {
+        "tiktok": [
+            "the.hangout.alkmaar"
+        ],
+        "instagram": [
+            "the.hangout.alkmaar"
+        ],
+        "google": [
+            "the hangout alkmaar"
+        ]
+    }
 }
