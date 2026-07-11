@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "updated": "2026-07-11T14:36:23.380377Z",
+    "updated": "2026-07-11T16:52:36.627441Z",
     "platforms": {
         "tiktok": {
             "the.hangout.alkmaar": {
@@ -16,7 +16,7 @@
             }
         },
         "google": {
-            "the hangout alkmaar": {
+            "ChIJ8yv1qcZXz0cRVgtYO5X5LZM": {
                 "error": "Scrape mislukt"
             }
         }
