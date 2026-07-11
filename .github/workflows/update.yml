@@ -3,7 +3,8 @@ name: Social Monitor
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   run:
