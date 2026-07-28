@@ -1,10 +1,10 @@
 {
     "status": "success",
-    "updated": "2026-07-28T07:47:40.060916Z",
+    "updated": "2026-07-28T15:54:14.554346Z",
     "platforms": {
         "tiktok": {
             "the.hangout.alkmaar": {
-                "followers": 835,
+                "followers": 834,
                 "following": 90,
                 "heart_count": 19900,
                 "video_count": 83
@@ -17,7 +17,13 @@
         },
         "google": {
             "ChIJ8yv1qcZXz0cRVgtYO5X5LZM": {
-                "error": "Scrape mislukt"
+                "rating": 4.5,
+                "review_count": 0,
+                "latest_review": {
+                    "text": " itemtype=",
+                    "reviewer": "Recente bezoeker",
+                    "rating": 4.5
+                }
             }
         }
     }
