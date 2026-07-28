@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "updated": "2026-07-27T21:52:41.614980Z",
+    "updated": "2026-07-28T07:47:40.060916Z",
     "platforms": {
         "tiktok": {
             "the.hangout.alkmaar": {
@@ -17,13 +17,7 @@
         },
         "google": {
             "ChIJ8yv1qcZXz0cRVgtYO5X5LZM": {
-                "rating": 4.5,
-                "review_count": 0,
-                "latest_review": {
-                    "text": " itemtype=",
-                    "reviewer": "Recente bezoeker",
-                    "rating": 4.5
-                }
+                "error": "Scrape mislukt"
             }
         }
     }
