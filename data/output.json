@@ -1,10 +1,13 @@
 {
     "status": "success",
-    "updated": "2026-08-25T16:25:58.293548Z",
+    "updated": "2026-08-25T17:06:00.974913Z",
     "platforms": {
         "tiktok": {
             "the.hangout.alkmaar": {
-                "error": "Scrape mislukt"
+                "followers": 848,
+                "following": 90,
+                "heart_count": 20200,
+                "video_count": 89
             }
         },
         "instagram": {
