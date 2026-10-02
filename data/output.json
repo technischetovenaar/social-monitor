@@ -1,13 +1,13 @@
 {
     "status": "success",
-    "updated": "2026-10-02T06:51:14.259837Z",
+    "updated": "2026-10-02T13:22:14.112517Z",
     "platforms": {
         "tiktok": {
             "the.hangout.alkmaar": {
-                "followers": 904,
+                "followers": 905,
                 "following": 90,
                 "heart_count": 20900,
-                "video_count": 100
+                "video_count": 101
             }
         },
         "instagram": {
